@@ -2,7 +2,6 @@
 *.xlsx
 *.rar
 /.idea
-/file
 /build
 /dist
 /translate.egg-info
